@@ -1,0 +1,5 @@
+= README
+
+The following files look to unify various personal notes with links to third party material.
+
+Hopefully they maybe of use to others
