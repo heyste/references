@@ -1,0 +1,13 @@
+= Ruby
+
+== Language
+
+- http://ruby-doc.org/core[Core API]
+- http://ruby-doc.org/stdlib/[Standard Library API]
+
+== Gems
+
+- https://rubygems.org/[RubyGems]
+- https://pryrepl.org/[Pry]
+- http://batsov.com/rubocop/[RuboCop]
+- http://rspec.info/[RSpec]
