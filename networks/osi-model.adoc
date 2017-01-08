@@ -1,0 +1,25 @@
+= OSI Model
+
+== Layer 7: Application
+
+== Layer 6: Presentation
+
+== Layer 5: Session
+
+== Layer 4: Transport
+
+== Layer 3: Network
+
+=== IPv4
+
+- http://jodies.de/ipcalc[IP Calc]
+
+
+== Layer 2: Data Link
+
+=== MAC Addressing
+
+- https://macvendors.com/[MAC Address Vendors]
+- http://standards-oui.ieee.org/oui.txt
+
+== Layer 1: Physical
