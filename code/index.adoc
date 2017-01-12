@@ -2,8 +2,8 @@
 
 == Index
 
-- Data
-- Networks
+- link:../data/index.adoc[Data]
+- link:../networks/index.adoc[Networks]
 
 == Code
 

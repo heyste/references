@@ -1,0 +1,11 @@
+= References
+
+== Index
+
+- link:../code/index.adoc[Code]
+- link:../data/index.adoc[Data]
+
+== Code
+
+- link:osi-model.adoc[OSI Model]
+- link:troubleshooting.adoc[Troubleshooting]

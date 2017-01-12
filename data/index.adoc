@@ -1,0 +1,10 @@
+= References
+
+== Index
+
+- link:../code/index.adoc[Code]
+- link:../networks/index.adoc[Networks]
+
+== Data
+
+- link:databases.adoc[Databases]
