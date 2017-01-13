@@ -1,0 +1,11 @@
+= References
+
+== Index
+
+- link:../code/index.adoc[Code]
+- link:../data/index.adoc[Data]
+- link:../networks/index.adoc[Networks]
+
+== Data
+
+- link:html.adoc[HTML]
