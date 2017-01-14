@@ -1,10 +1,11 @@
-= References
+= Data References
 
 == Index
 
 - link:../code/index.adoc[Code]
-- link:../networks/index.adoc[Networks]
+- link:../network/index.adoc[Network]
+- link:../web/index.adoc[Web]
 
-== Data
+== Data 101
 
 - link:databases.adoc[Databases]

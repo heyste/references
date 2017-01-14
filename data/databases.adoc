@@ -1,5 +1,10 @@
 = Databases
 
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Data]
+
 == Relational
 
 - https://www.postgresql.org/[Postgresql]

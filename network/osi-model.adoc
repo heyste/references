@@ -1,5 +1,10 @@
 = OSI Model
 
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Network]
+
 == Layer 7: Application
 
 == Layer 6: Presentation
@@ -13,7 +18,6 @@
 === IPv4
 
 - http://jodies.de/ipcalc[IP Calc]
-
 
 == Layer 2: Data Link
 

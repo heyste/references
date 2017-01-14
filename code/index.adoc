@@ -1,10 +1,11 @@
-= References
+= Code References
 
 == Index
 
 - link:../data/index.adoc[Data]
-- link:../networks/index.adoc[Networks]
+- link:../network/index.adoc[Network]
+- link:../web/index.adoc[Web]
 
-== Code
+== Code 101
 
 - link:ruby.adoc[Ruby]

@@ -1,5 +1,10 @@
 = Troubleshooting Networks
 
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Network]
+
 == Layer 7: Application
 
 == Layer 6: Presentation
@@ -16,4 +21,3 @@
 == Layer 2: Data Link
 
 == Layer 1: Physical
-

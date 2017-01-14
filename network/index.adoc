@@ -1,11 +1,12 @@
-= References
+= Network References
 
 == Index
 
 - link:../code/index.adoc[Code]
 - link:../data/index.adoc[Data]
+- link:../web/index.adoc[Web]
 
-== Code
+== Network 101
 
 - link:osi-model.adoc[OSI Model]
 - link:troubleshooting.adoc[Troubleshooting]

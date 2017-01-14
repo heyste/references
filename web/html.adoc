@@ -3,7 +3,7 @@
 == Index
 
 - link:../index.adoc[Index]
-- link:web/index.adoc[Web]
+- link:index.adoc[Web]
 
 == World Wide Web Consortium (W3C)
 
