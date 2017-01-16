@@ -8,5 +8,6 @@
 
 == Web 101
 
-- link:html.adoc[HTML]
 - link:css.adoc[CSS]
+- link:html.adoc[HTML]
+- link:javascript.adoc[Javascript]

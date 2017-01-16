@@ -1,0 +1,12 @@
+= Javascript
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Web]
+
+== Javascript 101
+
+- link:https://www.javascript.com/[Javascript.com]
+- link:https://developer.mozilla.org/en-US/docs/Web/JavaScript[MDN: JavaScript]
+- link:https://developer.mozilla.org/en-US/docs/Learn/JavaScript[Learn Javascript]
