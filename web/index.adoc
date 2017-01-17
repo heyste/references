@@ -11,3 +11,4 @@
 - link:css.adoc[CSS]
 - link:html.adoc[HTML]
 - link:javascript.adoc[Javascript]
+- link:svg.adoc[SVG]

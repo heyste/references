@@ -1,0 +1,12 @@
+= SVG
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Web]
+
+== SVG 101
+
+- link:https://developer.mozilla.org/en/docs/Web/SVG[SVG | MDN]
+- link:https://jakearchibald.github.io/svgomg/[SVGOMG]
+- link:https://www.w3.org/Graphics/SVG/[W3C SVG Working Group]
