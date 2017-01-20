@@ -7,12 +7,16 @@
 
 == Language
 
-- http://ruby-doc.org/core[Core API]
-- http://ruby-doc.org/stdlib/[Standard Library API]
+- link:http://ruby-doc.org/core[Core API]
+- link:http://ruby-doc.org/stdlib/[Standard Library API]
 
 == Gems
 
-- https://rubygems.org/[RubyGems]
-- https://pryrepl.org/[Pry]
-- http://batsov.com/rubocop/[RuboCop]
-- http://rspec.info/[RSpec]
+- link:https://rubygems.org/[RubyGems]
+- link:https://pryrepl.org/[Pry]
+- link:http://batsov.com/rubocop/[RuboCop]
+- link:http://rspec.info/[RSpec]
+
+== News
+
+- link:http://rubyweekly.com/issues[Ruby Weekly]
