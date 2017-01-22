@@ -9,4 +9,11 @@
 
 - link:https://www.javascript.com/[Javascript.com]
 - link:https://developer.mozilla.org/en-US/docs/Web/JavaScript[MDN: JavaScript]
+
+== News
+
+- link:http://javascriptweekly.com/issues[JavaScript Weekly]
+
+== Learn
+
 - link:https://developer.mozilla.org/en-US/docs/Learn/JavaScript[Learn Javascript]
