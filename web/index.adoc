@@ -12,3 +12,7 @@
 - link:html.adoc[HTML]
 - link:javascript.adoc[Javascript]
 - link:svg.adoc[SVG]
+
+== Explore
+
+- link:https://codepen.io/pen/[codepen.io | Create a New Pen]
