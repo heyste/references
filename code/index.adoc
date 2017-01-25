@@ -3,6 +3,7 @@
 == Index
 
 - link:../data/index.adoc[Data]
+- link:../design/index.adoc[Design]
 - link:../network/index.adoc[Network]
 - link:../web/index.adoc[Web]
 
