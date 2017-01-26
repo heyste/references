@@ -8,4 +8,6 @@
 == Fonts 101
 
 - link:https://www.fontsquirrel.com/[Font Squirrel]
+- link:https://fonts.google.com/[Google Fonts]
+- link:https://typecast.com/[Typecast]
 - link:http://fontawesome.io/[Font Awesome]
