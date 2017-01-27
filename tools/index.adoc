@@ -1,12 +1,13 @@
-= Design References
+= Tools
 
 == Index
 
 - link:../code/index.adoc[Code]
 - link:../data/index.adoc[Data]
+- link:../design/index.adoc[Design]
 - link:../network/index.adoc[Network]
 - link:../web/index.adoc[Web]
 
-== Design 101
+== Core Applications
 
-- link:fonts.adoc[Fonts]
+- link:https://atom.io/[Atom]
