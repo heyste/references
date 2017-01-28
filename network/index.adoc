@@ -5,6 +5,7 @@
 - link:../code/index.adoc[Code]
 - link:../data/index.adoc[Data]
 - link:../design/index.adoc[Design]
+- link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
 == Network 101

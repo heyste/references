@@ -5,6 +5,7 @@
 - link:../code/index.adoc[Code]
 - link:../design/index.adoc[Design]
 - link:../network/index.adoc[Network]
+- link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
 == Data 101
