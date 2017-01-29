@@ -14,3 +14,7 @@
 == Library
 
 - link:http://snapsvg.io/[Snap.svg]
+
+== Examples
+
+- link:https://tympanus.net/Tutorials/InteractiveSVG/[Interactive SVG Infographic]
