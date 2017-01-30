@@ -11,3 +11,4 @@
 == Design 101
 
 - link:fonts.adoc[Fonts]
+- link:infographics.adoc[Infographics]

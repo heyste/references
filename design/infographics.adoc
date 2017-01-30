@@ -1,0 +1,16 @@
+= Infographics
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Design]
+
+== Explain
+
+- link:https://www.customermagnetism.com/infographics/what-is-an-infographic/[What is an Infographic?]
+
+== Examples
+
+- link:http://neomam.com/interactive/13reasons/[13 Reasons Why Your Brain Craves Infographics]
+- link:http://www.creativebloq.com/graphic-design-tips/information-graphics-1232836[The 100 best infographics]
+- link:https://www.behance.net/gallery/8067551/Imaginary-Factory[Imaginary-Factory]
