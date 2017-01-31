@@ -10,5 +10,6 @@
 
 == Design 101
 
+- link:color.adoc[Color]
 - link:fonts.adoc[Fonts]
 - link:infographics.adoc[Infographics]
