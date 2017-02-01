@@ -11,3 +11,4 @@
 == Code 101
 
 - link:ruby.adoc[Ruby]
+- link:elixir.adoc[Elixir]

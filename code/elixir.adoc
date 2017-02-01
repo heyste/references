@@ -1,0 +1,15 @@
+= Elixir
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Code]
+
+== Language
+
+- link:http://elixir-lang.org/[Elixir]
+
+== Learn
+
+- link:http://elixir-lang.org/learning.html[Learning resources]
+- link:http://elixir-lang.org/getting-started/introduction.html[Getting Started]
