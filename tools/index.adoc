@@ -11,3 +11,4 @@
 == Core Applications
 
 - link:https://atom.io/[Atom]
+- link:https://git-scm.com/[Git]
