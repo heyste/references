@@ -8,6 +8,10 @@
 - link:../network/index.adoc[Network]
 - link:../web/index.adoc[Web]
 
+== Ideas
+
+- link:https://www.thoughtworks.com/radar/tools[ThoughtWorks | Technology Radar | Tools]
+
 == Core Applications
 
 - link:https://atom.io/[Atom]
