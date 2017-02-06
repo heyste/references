@@ -12,3 +12,7 @@
 
 - link:ruby.adoc[Ruby]
 - link:elixir.adoc[Elixir]
+
+== Ideas
+
+- link:https://www.thoughtworks.com/radar/languages-and-frameworks[ThoughtWorks | Technology Radar | Languages and Frameworks]
