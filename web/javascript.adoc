@@ -17,3 +17,7 @@
 == Learn
 
 - link:https://developer.mozilla.org/en-US/docs/Learn/JavaScript[Learn Javascript]
+
+== Explore
+
+- link:https://vuejs.org/[Vue.js]
