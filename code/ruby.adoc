@@ -14,6 +14,7 @@
 
 - link:https://rubygems.org/[RubyGems]
 - link:https://pryrepl.org/[Pry]
+- link:https://ruby.github.io/rake/[Rake]
 - link:https://github.com/troessner/reek[Reek]
 - link:http://batsov.com/rubocop/[RuboCop]
 - link:http://rspec.info/[RSpec]
