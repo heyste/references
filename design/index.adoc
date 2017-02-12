@@ -14,3 +14,7 @@
 - link:color.adoc[Color]
 - link:fonts.adoc[Fonts]
 - link:infographics.adoc[Infographics]
+
+== Applications
+
+- link:https://inkscape.org/[Inkscape]
