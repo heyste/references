@@ -22,3 +22,7 @@
 == News
 
 - link:http://rubyweekly.com/issues[Ruby Weekly]
+
+== Learn
+
+- link:https://rubymonk.com/[RubyMonk - Interactive ruby tutorials to learn Ruby]
