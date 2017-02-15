@@ -6,6 +6,7 @@
 - link:data/index.adoc[Data]
 - link:design/index.adoc[Design]
 - link:network/index.adoc[Network]
+- link:platforms/index.adoc[Platforms]
 - link:security/index.adoc[Security]
 - link:tools/index.adoc[Tools]
 - link:web/index.adoc[Web]

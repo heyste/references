@@ -1,0 +1,15 @@
+= Platforms
+
+== Index
+
+- link:../code/index.adoc[Code]
+- link:../data/index.adoc[Data]
+- link:../design/index.adoc[Design]
+- link:../network/index.adoc[Network]
+- link:../security/index.adoc[Security]
+- link:../tools/index.adoc[Tools]
+- link:../web/index.adoc[Web]
+
+== Current
+
+- link:docker.adoc[Docker]
