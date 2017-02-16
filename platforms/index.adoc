@@ -13,3 +13,7 @@
 == Current
 
 - link:docker.adoc[Docker]
+
+== Ideas
+
+- link:https://www.thoughtworks.com/radar/platforms[ThoughtWorks | Technology Radar | Platforms]
