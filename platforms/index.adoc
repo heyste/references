@@ -10,10 +10,10 @@
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
-== Current
-
-- link:docker.adoc[Docker]
-
 == Ideas
 
 - link:https://www.thoughtworks.com/radar/platforms[ThoughtWorks | Technology Radar | Platforms]
+
+== Current
+
+- link:docker.adoc[Docker]
