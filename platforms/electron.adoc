@@ -1,0 +1,10 @@
+= Electron
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Platforms]
+
+== References
+
+- link:http://electron.atom.io/[Electron]
