@@ -23,3 +23,7 @@
 - link:https://atom.io/docs[Atom Documentation]
 - link:http://flight-manual.atom.io/[Atom Flight Manual]
 - link:https://git-scm.com/book/en/v2[Pro Git]
+
+== Explore
+
+- link:https://www.vaultproject.io/[Vault by HashiCorp]
