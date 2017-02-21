@@ -1,10 +1,11 @@
-= Network References
+= Network
 
 == Index
 
 - link:../code/index.adoc[Code]
 - link:../data/index.adoc[Data]
 - link:../design/index.adoc[Design]
+- link:../platforms/index.adoc[Platforms]
 - link:../security/index.adoc[Security]
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]

@@ -1,10 +1,11 @@
-= Data References
+= Data
 
 == Index
 
 - link:../code/index.adoc[Code]
 - link:../design/index.adoc[Design]
 - link:../network/index.adoc[Network]
+- link:../platforms/index.adoc[Platforms]
 - link:../security/index.adoc[Security]
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
