@@ -10,6 +10,10 @@
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
+== Ideas
+
+- link:https://www.oreilly.com/topics/security[O'Reilly | Security]
+
 == Security 101
 
 - link:https://www.owasp.org/[Open Web Application Security Project]
