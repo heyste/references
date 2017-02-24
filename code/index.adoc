@@ -10,9 +10,12 @@
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
-== Code 101
+== Current
 
 - link:ruby.adoc[Ruby]
+
+== Explore
+
 - link:elixir.adoc[Elixir]
 
 == Ideas
