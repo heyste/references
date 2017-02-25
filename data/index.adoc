@@ -10,6 +10,10 @@
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
+== Ideas
+
+- link:https://www.oreilly.com/topics/data[O'Reilly | Data]
+
 == Data 101
 
 - link:databases.adoc[Databases]
