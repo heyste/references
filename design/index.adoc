@@ -10,6 +10,10 @@
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
+== Ideas
+
+- link:https://www.oreilly.com/topics/design[O'Reilly | Design]
+
 == Design 101
 
 - link:color.adoc[Color]
