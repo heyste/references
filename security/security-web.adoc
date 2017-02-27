@@ -1,0 +1,14 @@
+= Web Security
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Security]
+
+== Core Topics
+
+- link:https://www.owasp.org/[Open Web Application Security Project]
+
+== HTTP
+
+- link:https://www.owasp.org/index.php/HTTP_Strict_Transport_Security[HSTS]

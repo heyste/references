@@ -14,10 +14,7 @@
 
 - link:https://www.oreilly.com/topics/security[O'Reilly | Security]
 
-== Security 101
+== Topics
 
-- link:https://www.owasp.org/[Open Web Application Security Project]
-
-== Network
-
-- link:firewalls.adoc[Firewalls]
+- link:security-web.adoc[Web Security]
+- link:network-firewalls.adoc[Network Firewalls]
