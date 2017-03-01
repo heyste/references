@@ -14,3 +14,7 @@
 
 - link:osi-model.adoc[OSI Model]
 - link:troubleshooting.adoc[Troubleshooting]
+
+== Documentation
+
+- link:http://networkdiagram101.com/[Network Diagram 101]
