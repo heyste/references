@@ -10,6 +10,11 @@
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
+== Ideas
+
+- link:https://www.thoughtworks.com/radar/languages-and-frameworks[ThoughtWorks | Technology Radar | Languages and Frameworks]
+- link:http://confreaks.tv/[Confreaks]
+
 == Current
 
 - link:ruby.adoc[Ruby]
@@ -17,7 +22,3 @@
 == Explore
 
 - link:elixir.adoc[Elixir]
-
-== Ideas
-
-- link:https://www.thoughtworks.com/radar/languages-and-frameworks[ThoughtWorks | Technology Radar | Languages and Frameworks]
