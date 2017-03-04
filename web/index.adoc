@@ -10,6 +10,10 @@
 - link:../security/index.adoc[Security]
 - link:../tools/index.adoc[Tools]
 
+== News
+
+- link:http://frontendfocus.co/issues[FrontEnd Focus]
+
 == Web 101
 
 - link:css.adoc[CSS]
