@@ -18,6 +18,10 @@
 
 - link:https://developer.mozilla.org/en-US/docs/Learn/JavaScript[Learn Javascript]
 
+== Library
+
+- link:https://fullcalendar.io/[FullCalendar | JavaScript Event Calendar]
+
 == Explore
 
 - link:https://vuejs.org/[Vue.js]
