@@ -8,3 +8,7 @@
 == Appliances
 
 - link:https://pfsense.org/[pfSense]
+
+== Documentation
+
+- link:https://doc.pfsense.org/[pfSense]
