@@ -1,0 +1,12 @@
+= Atom
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Tools]
+
+== Packages
+
+- link:https://atom.io/packages/color-picker[Color Picker]
+- link:https://atom.io/packages/pigments[Pigments]
+- link:https://atom.io/packages/minimap[Minimap]

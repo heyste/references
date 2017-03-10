@@ -16,7 +16,7 @@
 
 == Core
 
-- link:https://atom.io/[Atom]
+- link:atom.adoc[Atom]
 - link:https://git-scm.com/[Git]
 - link:asciidoctor.adoc[Asciidoctor]
 
