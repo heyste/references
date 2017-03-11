@@ -1,0 +1,10 @@
+= Encryption
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Security]
+
+== Collision attacks
+
+- link:https://shattered.io/[shattered.io]
