@@ -23,6 +23,7 @@
 - link:http://batsov.com/rubocop/[RuboCop]
 - link:http://rspec.info/[RSpec]
 - link:https://kramdown.gettalong.org/[kramdown]
+- link:https://middlemanapp.com/[Middleman]
 
 == Learn
 
