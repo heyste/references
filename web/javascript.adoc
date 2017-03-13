@@ -21,6 +21,7 @@
 == Library
 
 - link:https://fullcalendar.io/[FullCalendar | JavaScript Event Calendar]
+- link:https://d3js.org/[D3.js - Data-Driven Documents]
 
 == Explore
 
