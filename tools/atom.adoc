@@ -10,3 +10,4 @@
 - link:https://atom.io/packages/color-picker[Color Picker]
 - link:https://atom.io/packages/pigments[Pigments]
 - link:https://atom.io/packages/minimap[Minimap]
+- link:https://atom.io/packages/atom-beautify[Beautify]
