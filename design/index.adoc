@@ -13,6 +13,7 @@
 == Ideas
 
 - link:https://www.oreilly.com/topics/design[O'Reilly | Design]
+- link:https://robots.thoughtbot.com/design[thoughtbot | design]
 
 == Design 101
 
