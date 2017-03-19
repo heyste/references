@@ -19,3 +19,4 @@
 - link:security-encryption.adoc[Encryption]
 - link:security-web.adoc[Web Security]
 - link:network-firewalls.adoc[Network Firewalls]
+- link:security-vulnerability-testing.adoc[Vulnerability Testing]
