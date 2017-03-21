@@ -19,4 +19,5 @@
 - link:security-encryption.adoc[Encryption]
 - link:security-web.adoc[Web Security]
 - link:network-firewalls.adoc[Network Firewalls]
+- link:security-penetration-testing.adoc[Penetration Testing]
 - link:security-vulnerability-testing.adoc[Vulnerability Testing]
