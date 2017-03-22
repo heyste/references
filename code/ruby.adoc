@@ -28,3 +28,4 @@
 == Learn
 
 - link:https://rubymonk.com/[RubyMonk - Interactive ruby tutorials to learn Ruby]
+- link:https://learnrubythehardway.org/book/[Learn Ruby the Hard Way]
