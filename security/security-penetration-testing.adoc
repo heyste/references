@@ -8,3 +8,4 @@
 == Software
 
 - link:https://www.rapid7.com/products/metasploit/[Metasploit: Penetration Testing Software]
+- link:https://www.kali.org/[Kali Linux | Penetration Testing and Ethical Hacking Linux Distribution]
