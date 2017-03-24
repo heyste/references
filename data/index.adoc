@@ -10,6 +10,11 @@
 - link:../tools/index.adoc[Tools]
 - link:../web/index.adoc[Web]
 
+== News
+
+- link:http://dbweekly.com/issues[DB Weekly]
+- link:http://postgresweekly.com/issues[Postgres Weekly]
+
 == Ideas
 
 - link:https://www.oreilly.com/topics/data[O'Reilly | Data]

@@ -5,11 +5,6 @@
 - link:../index.adoc[Index]
 - link:index.adoc[Data]
 
-== News
-
-- link:http://dbweekly.com/issues[DB Weekly]
-- link:http://postgresweekly.com/issues[Postgres Weekly]
-
 == Relational
 
 - link:https://www.postgresql.org/[Postgresql]
