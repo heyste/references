@@ -5,6 +5,10 @@
 - link:../index.adoc[Index]
 - link:index.adoc[Network]
 
+== Standards
+
+- link:http://www.ieee802.org/3/[IEEE 802.3 Ethernet Working Group]
+
 == Layer 7: Application
 
 == Layer 6: Presentation
