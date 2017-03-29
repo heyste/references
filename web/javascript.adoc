@@ -26,3 +26,4 @@
 == Explore
 
 - link:https://vuejs.org/[Vue.js]
+- link:http://maxwellito.github.io/vivus/[vivus.js - Svg Animation]
