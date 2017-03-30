@@ -1,0 +1,17 @@
+= Intrusion Detection and Prevention Systems (IDPS)
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Security]
+
+== Reference
+
+- link:http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-94.pdf[Intrusion Detection and Prevention Systems (IDPS)]
+
+== Snort
+
+[quote]
+link:https://snort.org/[Snort] is an open source network intrusion prevention system (IPS) by Cisco. It is capable of performing real-time traffic analysis and packet logging on IP networks. It can perform protocol analysis, content searching and matching, and detect a variety of attacks and probes. Snort can be used as a straight packet sniffer like tcpdump, a packet logger (useful for network traffic debugging), or as a full-blown network intrusion prevention system.
+
+- link:https://snort.org/documents[Snort Documents]
