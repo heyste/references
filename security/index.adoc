@@ -22,3 +22,4 @@
 - link:security-penetration-testing.adoc[Penetration Testing]
 - link:security-vulnerability-testing.adoc[Vulnerability Testing]
 - link:security-ids-ips.adoc[Intrusion Detection and Prevention Systems (IDPS)]
+- link:security-threat-maps.adoc[Threat Maps]
