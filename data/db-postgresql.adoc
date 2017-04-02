@@ -12,3 +12,4 @@
 == Learn
 
 - link:http://www.postgresqltutorial.com/[PostgreSQL Tutorial]
+- link:http://postgresguide.com/[Postgres Guide]

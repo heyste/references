@@ -22,3 +22,7 @@
 == Data 101
 
 - link:databases.adoc[Databases]
+
+== Relational
+
+- link:db-postgresql.adoc[PostgreSQL]
