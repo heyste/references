@@ -5,6 +5,11 @@
 - link:../index.adoc[Index]
 - link:index.adoc[Tools]
 
+== News
+
+- link:http://blog.atom.io/[Atom Blog]
+- link:https://github.com/atom/atom/releases/latest[Latest Release]
+
 == Packages
 
 - link:https://atom.io/packages/color-picker[Color Picker]
