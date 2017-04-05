@@ -19,10 +19,7 @@
 
 - link:https://www.oreilly.com/topics/data[O'Reilly | Data]
 
-== Data 101
-
-- link:databases.adoc[Databases]
-
 == Relational
 
 - link:db-postgresql.adoc[PostgreSQL]
+- link:db-sqlite.adoc[SQLite]
