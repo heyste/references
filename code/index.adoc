@@ -22,6 +22,7 @@
 == Explore
 
 - link:elixir.adoc[Elixir]
+- link:https://crystal-lang.org/[Crystal]
 
 == References
 
