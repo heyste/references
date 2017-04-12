@@ -25,6 +25,7 @@
 - link:https://kramdown.gettalong.org/[kramdown]
 - link:https://middlemanapp.com/[Middleman]
 - link:https://github.com/slim-template/slim[Slim]
+- link:http://hanamirb.org/[Hanami]
 
 == Learn
 
