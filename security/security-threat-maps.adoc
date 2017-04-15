@@ -9,3 +9,4 @@
 
 - link:http://map.norsecorp.com/[Norse Attack Map]
 - link:https://map.lookingglasscyber.com/[Threat Map by LookingGlass]
+- link:https://threatmap.fortiguard.com/[Fortinet Threat Map]
