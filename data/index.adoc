@@ -23,3 +23,7 @@
 
 - link:db-postgresql.adoc[PostgreSQL]
 - link:db-sqlite.adoc[SQLite]
+
+== NoSQL
+
+- link:db-redis.adoc[Redis]
