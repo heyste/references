@@ -9,6 +9,10 @@
 
 - link:https://www.postgresql.org/[PostgreSQL]
 
+== Test
+
+- link:http://sqlfiddle.com/#!15[SQL Fiddle]
+
 == Learn
 
 - link:http://www.postgresqltutorial.com/[PostgreSQL Tutorial]
