@@ -9,6 +9,10 @@
 
 - link:https://www.sqlite.org/[SQLite]
 
+== Test
+
+- link:http://kripken.github.io/sql.js/GUI/[sql.js demo: Online SQL interpreter]
+
 == Learn
 
 - link:http://www.sqlitetutorial.net/[SQLite Tutorial]
