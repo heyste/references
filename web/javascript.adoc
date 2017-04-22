@@ -23,6 +23,7 @@
 
 - link:https://fullcalendar.io/[FullCalendar | JavaScript Event Calendar]
 - link:https://d3js.org/[D3.js - Data-Driven Documents]
+- link:https://github.com/kripken/sql.js/[sql.js]
 
 == Explore
 
