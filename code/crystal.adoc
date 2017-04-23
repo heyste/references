@@ -1,0 +1,10 @@
+= Crystal
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Code]
+
+== Language
+
+- link:https://crystal-lang.org/[The Crystal Programming Language]
