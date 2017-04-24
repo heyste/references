@@ -8,4 +8,5 @@
 == World Wide Web Consortium (W3C)
 
 - link:https://www.w3.org/TR/html5/[HTML5]
+- link:https://www.w3.org/TR/html51/[HTML 5.1]
 - link:https://validator.w3.org/[Markup Validation Service]
