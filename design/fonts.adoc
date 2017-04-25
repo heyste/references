@@ -5,9 +5,13 @@
 - link:../index.adoc[Index]
 - link:index.adoc[Design]
 
-== Fonts 101
+== Fonts Sources
 
 - link:https://www.fontsquirrel.com/[Font Squirrel]
 - link:https://fonts.google.com/[Google Fonts]
 - link:https://typecast.com/[Typecast]
 - link:http://fontawesome.io/[Font Awesome]
+
+== Primary Fonts
+
+- link:https://www.fontsquirrel.com/fonts/open-sans[Open Sans]
