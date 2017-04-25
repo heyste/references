@@ -5,7 +5,7 @@
 - link:../index.adoc[Index]
 - link:index.adoc[Design]
 
-== Fonts Sources
+== Font Sources
 
 - link:https://www.fontsquirrel.com/[Font Squirrel]
 - link:https://fonts.google.com/[Google Fonts]
@@ -15,3 +15,4 @@
 == Primary Fonts
 
 - link:https://www.fontsquirrel.com/fonts/open-sans[Open Sans]
+- link:https://www.fontsquirrel.com/fonts/lato[Lato]
