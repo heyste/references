@@ -12,6 +12,10 @@ link:http://asciidoctor.org/[Asciidoctor] is a fast text processor and publishin
 == Key Documentation
 
 - link:http://asciidoctor.org/docs/what-is-asciidoc/[What is AsciiDoc?]
-- link:http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer’s Guide]
+- link:http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoc Writer's Guide]
 - link:http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
 - link:http://asciidoctor.org/docs/user-manual/[Asciidoctor User Manual]
+
+== Github
+
+- link:https://github.com/asciidoctor/asciidoctor[GitHub - asciidoctor/asciidoctor]
