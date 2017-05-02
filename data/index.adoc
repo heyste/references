@@ -27,3 +27,7 @@
 == NoSQL
 
 - link:db-redis.adoc[Redis]
+
+== Explore
+
+- link:https://www.r-project.org/[R: The R Project for Statistical Computing]
