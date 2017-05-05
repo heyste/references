@@ -14,7 +14,7 @@
 
 - link:http://frontendfocus.co/issues[FrontEnd Focus]
 
-== Web 101
+== Web Technologies
 
 - link:css.adoc[CSS]
 - link:html.adoc[HTML]
@@ -24,3 +24,7 @@
 == Explore
 
 - link:https://codepen.io/pen/[codepen.io | Create a New Pen]
+
+== Benchmarking
+
+- https://github.com/wg/wrk[wrk - a HTTP benchmarking tool]
