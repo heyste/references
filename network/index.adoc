@@ -1,17 +1,10 @@
 = Network
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../code/index.adoc[Code]
-- link:../data/index.adoc[Data]
-- link:../design/index.adoc[Design]
-- link:../platforms/index.adoc[Platforms]
-- link:../security/index.adoc[Security]
-- link:../tools/index.adoc[Tools]
-- link:../web/index.adoc[Web]
+== Network Technologies
 
-== Network 101
-
+- link:network-dns.adoc[DNS]
 - link:osi-model.adoc[OSI Model]
 - link:troubleshooting.adoc[Troubleshooting]
 
