@@ -1,0 +1,7 @@
+= Hardware
+
+== link:../index.adoc[Index]
+
+== Embedded
+
+- link:https://www.parallella.org/[Parallella]
