@@ -13,6 +13,7 @@
 == News
 
 - link:http://frontendfocus.co/issues[FrontEnd Focus]
+- link:https://webopsweekly.com/issues[WebOps Weekly]
 
 == Web Technologies
 
