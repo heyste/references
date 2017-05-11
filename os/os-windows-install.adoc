@@ -1,0 +1,10 @@
+= Windows Installation
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Operating Systems]
+
+== Licensing
+
+- link:https://technet.microsoft.com/en-us/library/jj612867(v=ws.11).aspx[KMS Client Setup Keys]

@@ -1,7 +1,11 @@
-= Network
+= Operating Systems
 
 == link:../index.adoc[Index]
 
 == Linux
 
 - link:https://www.linux.com[linux.com]
+
+== Windows
+
+- link:os-windows-install.adoc[Installation]
