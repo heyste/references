@@ -8,6 +8,7 @@
 == References
 
 - link:https://www.redis.io/[Redis]
+- link:https://redis.io/commands[Redia - Command reference]
 
 == Learn
 
