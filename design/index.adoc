@@ -12,6 +12,7 @@
 - link:color.adoc[Color]
 - link:fonts.adoc[Fonts]
 - link:infographics.adoc[Infographics]
+- link:http://method.ac/[Method of Action]
 
 == Applications
 
