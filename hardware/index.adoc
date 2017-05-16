@@ -5,3 +5,4 @@
 == Embedded
 
 - link:https://www.parallella.org/[Parallella]
+- link:https://www.raspberrypi.org/[Raspberry Pi]
