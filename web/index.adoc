@@ -18,6 +18,10 @@
 
 - link:https://codepen.io/pen/[codepen.io | Create a New Pen]
 
+== Web Browser Compatibility
+
+- link:http://caniuse.com/[Can I use?]
+
 == Benchmarking
 
 - https://github.com/wg/wrk[wrk - a HTTP benchmarking tool]
