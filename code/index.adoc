@@ -19,3 +19,4 @@
 == References
 
 - link:https://mitpress.mit.edu/sicp/full-text/book/book.html[Structure and Interpretation of Computer Programs]
+- link:https://teachyourselfcs.com/[Teach Yourself Computer Science]
