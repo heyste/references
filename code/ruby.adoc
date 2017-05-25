@@ -14,6 +14,10 @@
 - link:http://ruby-doc.org/core[Core API]
 - link:http://ruby-doc.org/stdlib/[Standard Library API]
 
+== Install
+
+- link:https://github.com/rbenv/rbenv[rbenv]
+
 == Gems
 
 - link:https://rubygems.org/[RubyGems]
