@@ -5,7 +5,7 @@
 - link:../index.adoc[Index]
 - link:index.adoc[Web]
 
-== Javascript 101
+== References
 
 - link:https://www.javascript.com/[Javascript.com]
 - link:https://js.org/[JS.ORG - the JavaScript organization]
