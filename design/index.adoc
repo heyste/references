@@ -19,3 +19,7 @@
 - link:https://inkscape.org/[Inkscape]
 - link:https://www.blender.org/[Blender]
 - link:https://krita.org/[Krita]
+
+== Explore
+
+- link:https://sharpen.design/[Sharpen.design Generator]
