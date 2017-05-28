@@ -5,15 +5,15 @@
 - link:../index.adoc[Index]
 - link:index.adoc[Web]
 
+== News
+
+- link:http://javascriptweekly.com/issues[JavaScript Weekly]
+
 == References
 
 - link:https://www.javascript.com/[Javascript.com]
 - link:https://js.org/[JS.ORG - the JavaScript organization]
 - link:https://developer.mozilla.org/en-US/docs/Web/JavaScript[MDN: JavaScript]
-
-== News
-
-- link:http://javascriptweekly.com/issues[JavaScript Weekly]
 
 == Learn
 
