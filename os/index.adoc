@@ -5,6 +5,7 @@
 == Linux
 
 - link:https://www.linux.com[linux.com]
+- link:https://www.kernel.org/[The Linux Kernel Archives]
 
 == Windows
 
