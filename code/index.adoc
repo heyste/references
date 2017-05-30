@@ -15,6 +15,7 @@
 
 - link:elixir.adoc[Elixir]
 - link:crystal.adoc[Crystal]
+- link:elm.adoc[Elm]
 
 == References
 
