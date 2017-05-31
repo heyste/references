@@ -24,4 +24,8 @@
 
 == Benchmarking
 
-- https://github.com/wg/wrk[wrk - a HTTP benchmarking tool]
+- link:https://github.com/wg/wrk[wrk - a HTTP benchmarking tool]
+
+== Protocols
+
+- link:http://httpwg.org/[IETF HTTP Working Group]
