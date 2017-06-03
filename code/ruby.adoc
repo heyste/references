@@ -16,7 +16,7 @@
 
 == Install
 
-- link:https://github.com/rbenv/rbenv[rbenv]
+- link:https://github.com/rbenv/rbenv[rbenv] link:https://github.com/rbenv/ruby-build/releases[releases]
 
 == Gems
 
