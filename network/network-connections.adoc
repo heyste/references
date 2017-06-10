@@ -1,0 +1,10 @@
+= Network Connections
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Network]
+
+== Core
+
+- link:http://www.submarinecablemap.com/[Submarine Cable Map]
