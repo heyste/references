@@ -29,3 +29,4 @@
 == Protocols
 
 - link:http://httpwg.org/[IETF HTTP Working Group]
+- link:https://http2.github.io/[HTTP/2]
