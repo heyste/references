@@ -6,6 +6,7 @@
 
 - link:https://www.thoughtworks.com/radar/languages-and-frameworks[ThoughtWorks | Technology Radar | Languages and Frameworks]
 - link:http://confreaks.tv/[Confreaks]
+- link:https://libraries.io/[Libraries.io - The Open Source Discovery Service]
 
 == Current
 
