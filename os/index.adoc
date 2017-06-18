@@ -11,6 +11,10 @@
 
 - link:http://tldp.org/LDP/abs/html/[Advanced Bash-Scripting Guide]
 
+=== Ubuntu Server
+
+- link:https://help.ubuntu.com/lts/serverguide/[Ubuntu Server Guide]
+
 == Windows
 
 - link:os-windows-install.adoc[Installation]
