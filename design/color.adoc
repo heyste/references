@@ -11,3 +11,4 @@
 - link:http://tristen.ca/hcl-picker/[Colorpicker for data]
 - link:http://www.checkmycolours.com/[Check My Colours]
 - link:https://colorme.io/[ColorMe]
+- link:http://paletton.com[Paletton - The Color Scheme Designer]
