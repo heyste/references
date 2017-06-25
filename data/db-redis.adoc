@@ -13,3 +13,7 @@
 == Learn
 
 - link:https://try.redis.io/[Try Redis]
+
+== Modules
+
+- link:http://redismodules.com/[Module Hub - the Redis Modules marketplace]
