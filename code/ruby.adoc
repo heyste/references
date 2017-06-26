@@ -31,6 +31,7 @@
 - link:https://github.com/sinatra/sinatra[Sinatra]
 - link:https://github.com/slim-template/slim[Slim]
 - link:http://hanamirb.org/[Hanami]
+- link:https://github.com/mikel/mail[mail]
 
 == Learn
 
