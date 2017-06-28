@@ -8,3 +8,7 @@
 == References
 
 - link:http://electron.atom.io/[Electron]
+
+=== link:https://electron.atom.io/docs/[Documentation]
+
+- link:https://electron.atom.io/docs/guides/[Guides]
