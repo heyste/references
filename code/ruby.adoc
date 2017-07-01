@@ -32,6 +32,7 @@
 - link:https://github.com/slim-template/slim[Slim]
 - link:http://hanamirb.org/[Hanami]
 - link:https://github.com/mikel/mail[mail]
+- link:https://github.com/faye/faye-websocket-ruby[faye-websocket]
 
 == Learn
 
