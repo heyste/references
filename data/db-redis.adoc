@@ -17,3 +17,4 @@
 == Modules
 
 - link:http://redismodules.com/[Module Hub - the Redis Modules marketplace]
+- link:http://rejson.io/[ReJSON - a JSON data type for Redis]
