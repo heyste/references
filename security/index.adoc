@@ -10,7 +10,7 @@
 
 - link:security-encryption.adoc[Encryption]
 - link:security-ids-ips.adoc[Intrusion Detection and Prevention Systems (IDPS)]
-- link:network-firewalls.adoc[Network Firewalls]
+- link:security-firewalls.adoc[Network Firewalls]
 - link:security-penetration-testing.adoc[Penetration Testing]
 - link:security-threat-maps.adoc[Threat Maps]
 - link:security-vulnerability-testing.adoc[Vulnerability Testing]
