@@ -16,3 +16,7 @@
 == Learn
 
 - link:http://www.sqlitetutorial.net/[SQLite Tutorial]
+
+== Explore
+
+- link:http://www.sqlite.org/csv.html[The CSV Virtual Table]
