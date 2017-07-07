@@ -13,6 +13,7 @@
 - link:html.adoc[HTML]
 - link:javascript.adoc[Javascript]
 - link:svg.adoc[SVG]
+- link:https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API[WebSockets]
 
 == Explore
 
