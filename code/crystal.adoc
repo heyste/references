@@ -8,3 +8,7 @@
 == Language
 
 - link:https://crystal-lang.org/[The Crystal Programming Language]
+
+== Explore
+
+- link:https://play.crystal-lang.org/#/cr[Compile & run code in Crystal]
