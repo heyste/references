@@ -10,3 +10,7 @@
 
 - link:https://www.raspberrypi.org/[Raspberry Pi]
 - link:https://www.raspberrypi.org/documentation/hardware/[Hardware]
+
+== Home Automation
+
+- link:http://www.openhab.org/[openHAB]
