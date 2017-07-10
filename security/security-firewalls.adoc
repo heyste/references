@@ -8,6 +8,7 @@
 == Appliances
 
 - link:https://pfsense.org/[pfSense]
+- link:https://opnsense.org/[OPNsense - Open Source Firewall]
 
 == Documentation
 
