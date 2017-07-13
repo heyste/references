@@ -15,6 +15,9 @@
 - link:http://elixir-lang.org/getting-started/introduction.html[Getting Started]
 - link:https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html[Introduction to Mix]
 
+== Packages
+
+- link:https://hex.pm/[Hex | The package manager for the Erlang ecosystem]
 
 == Web Framework
 
