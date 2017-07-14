@@ -15,6 +15,7 @@
 - link:security-threat-maps.adoc[Threat Maps]
 - link:security-vulnerability-testing.adoc[Vulnerability Testing]
 - link:security-web.adoc[Web Security]
+- link:security-passwords.adoc[Passwords]
 
 == Explore
 
