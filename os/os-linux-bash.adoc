@@ -1,0 +1,10 @@
+= Linux : Bash
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Operating Systems]
+
+== Learn
+
+- link:http://tldp.org/LDP/abs/html/[Advanced Bash-Scripting Guide]

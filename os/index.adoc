@@ -7,9 +7,9 @@
 - link:https://www.linux.com[linux.com]
 - link:https://www.kernel.org/[The Linux Kernel Archives]
 
-=== Bash
+=== Guides
 
-- link:http://tldp.org/LDP/abs/html/[Advanced Bash-Scripting Guide]
+- link:os-linux-bash.adoc[Bash]
 
 === Ubuntu Server
 
