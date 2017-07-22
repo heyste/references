@@ -10,3 +10,7 @@
 - link:https://www.w3.org/TR/html5/[HTML5]
 - link:https://www.w3.org/TR/html51/[HTML 5.1]
 - link:https://validator.w3.org/[Markup Validation Service]
+
+== Guides
+
+- link:http://html5doctor.com/[HTML5 Doctor, helping you implement HTML5 today]
