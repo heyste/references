@@ -46,3 +46,7 @@
 == Ruby Environment
 
 - link:https://github.com/rbenv/rbenv[rbenv]
+
+== Explore
+
+- link:https://github.com/bbatsov/ruby-style-guide[Ruby Style Guide: A community-driven Ruby coding style guide]
