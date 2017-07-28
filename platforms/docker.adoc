@@ -10,6 +10,7 @@
 - link:https://www.docker.com/[docker.com]
 - link:https://docs.docker.com/[Docker Documentation]
 - link:https://docs.docker.com/get-started/[Get Started, Part 1: Orientation and Setup | Docker Documentation]
+- link:https://docs.docker.com/engine/userguide/[Docker Engine - User Guide]
 
 === Networking
 
