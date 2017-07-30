@@ -14,6 +14,7 @@
 - link:javascript.adoc[Javascript]
 - link:svg.adoc[SVG]
 - link:https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API[WebSockets]
+- link:http://webassembly.org/[WebAssembly]
 
 == Explore
 
