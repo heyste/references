@@ -9,3 +9,7 @@
 
 - link:http://root-servers.org/[Root Server Technical Operations Assn]
 - link:https://www.iana.org/domains/root[IANA - Root Zone Management]
+
+== New Zealand
+
+- link:https://www.dnc.org.nz/[Domain Name Commission and .nz]
