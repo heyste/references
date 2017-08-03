@@ -1,0 +1,10 @@
+= Security based RFCs
+
+== Index
+
+- link:../index.adoc[Index]
+- link:index.adoc[Security]
+
+== Review
+
+- link:https://www.rfc-editor.org/info/rfc7465[RFC7465: Prohibiting RC4 Cipher Suites]
