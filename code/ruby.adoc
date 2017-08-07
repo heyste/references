@@ -42,6 +42,7 @@
 - link:http://poignant.guide/book/chapter-1.html[Why's (Poignant) Guide to Ruby]
 - link:https://idiosyncratic-ruby.com/[Idiosyncratic Ruby: Documenting All Ruby Specialities]
 - link:http://awesome-ruby.com/[Awesome Ruby]
+- link:http://rubykoans.com/[Ruby Koans]
 
 == Ruby Environment
 
