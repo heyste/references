@@ -29,3 +29,4 @@
 == Data Formats
 
 - link:http://www.json.org/[JSON]
+- link:http://www.yaml.org/[YAML]
