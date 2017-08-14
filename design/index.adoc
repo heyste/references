@@ -25,3 +25,7 @@
 - link:https://sharpen.design/[Sharpen.design Generator]
 - link:https://designshack.net/[Design Shack | Design Articles, Inspiration & Guides]
 - link:https://www.gradient-animator.com/[CSS Gradient Animator]
+
+== Process
+
+- link:https://robots.thoughtbot.com/the-product-design-sprint[The Product Design Sprint]
