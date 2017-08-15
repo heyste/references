@@ -8,3 +8,4 @@
 == Core
 
 - link:http://www.submarinecablemap.com/[Submarine Cable Map]
+- link:http://blog.showmecables.com/rj45-pinout/[RJ45 Pinout & Wiring Diagrams]
