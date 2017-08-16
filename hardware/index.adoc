@@ -14,3 +14,7 @@
 == Home Automation
 
 - link:http://www.openhab.org/[openHAB]
+
+== Explore
+
+- link:https://getchip.com/pages/chippro[CHIP Pro]
