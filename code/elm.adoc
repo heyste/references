@@ -12,3 +12,4 @@
 == Explore
 
 - link:http://elm-lang.org/try[Try Elm]
+- link:https://ellie-app.com/new[Ellie - The Elm Live Editor]
