@@ -30,3 +30,4 @@
 
 - link:http://www.json.org/[JSON]
 - link:http://www.yaml.org/[YAML]
+- link:https://github.com/toml-lang/toml[TOML]
