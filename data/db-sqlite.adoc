@@ -8,7 +8,7 @@
 == References
 
 - link:https://www.sqlite.org/[SQLite]
-- link:https://www.sqlite.org/keyword_index.html[Keyword Index]
+- link:https://www.sqlite.org/lang.html[SQL As Understood By SQLite]
 
 == Test
 
