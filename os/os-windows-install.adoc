@@ -8,3 +8,7 @@
 == Licensing
 
 - link:https://technet.microsoft.com/en-us/library/jj612867(v=ws.11).aspx[KMS Client Setup Keys]
+
+== Automation
+
+- link:https://chocolatey.org/[Chocolatey - The package manager for Windows]
