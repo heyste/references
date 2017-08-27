@@ -9,6 +9,7 @@
 
 - link:https://www.sqlite.org/[SQLite]
 - link:https://www.sqlite.org/lang.html[SQL As Understood By SQLite]
+- link:https://www.sqlite.org/syntaxdiagrams.html[Syntax Diagrams for SQLite]
 
 == Test
 
