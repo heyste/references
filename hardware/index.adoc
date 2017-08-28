@@ -10,6 +10,7 @@
 
 - link:https://www.raspberrypi.org/[Raspberry Pi]
 - link:https://www.raspberrypi.org/documentation/hardware/[Hardware]
+- link:https://www.raspberrypi.org/downloads/raspbian/[Download Raspbian for Raspberry Pi]
 
 == Home Automation
 
