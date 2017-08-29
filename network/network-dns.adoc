@@ -13,6 +13,8 @@
 == RFCs
 
 - link:https://www.rfc-editor.org/info/rfc2606[Reserved Top Level DNS Names]
+- link:https://www.rfc-editor.org/info/rfc6762[Multicast DNS]
+
 
 == New Zealand
 
