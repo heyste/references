@@ -9,6 +9,10 @@
 
 - link:http://elm-lang.org/[Elm - A delightful language for reliable webapps]
 
+== Learn
+
+- link:https://www.elm-tutorial.org/en/[Introduction - Elm Tutorial]
+
 == Explore
 
 - link:http://elm-lang.org/try[Try Elm]
