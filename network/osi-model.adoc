@@ -23,6 +23,7 @@
 
 - http://jodies.de/ipcalc[IP Calc]
 - https://www.rfc-editor.org/info/rfc1918[RFC1918 - Address Allocation for Private Internets]
+- link:https://www.rfc-editor.org/info/rfc3022[RFC 3022 - Traditional IP Network Address Translator (Traditional NAT)]
 
 == Layer 2: Data Link
 
