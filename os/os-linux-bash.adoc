@@ -8,3 +8,12 @@
 == Learn
 
 - link:http://tldp.org/LDP/abs/html/[Advanced Bash-Scripting Guide]
+
+== Examples
+
+- link:http://code.tools/man/1p/file-rename/[rename (1p)]
+
+[source,bash]
+----
+rename 's/\:/\-/g' *.png
+----
