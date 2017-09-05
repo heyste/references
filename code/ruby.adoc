@@ -35,6 +35,7 @@
 - link:https://github.com/faye/faye-websocket-ruby[faye-websocket]
 - link:https://github.com/jwt/ruby-jwt[jwt]
 - link:https://github.com/stympy/faker[faker]
+- link:https://github.com/geminabox/geminabox[Gem in a Box]
 
 == Learn
 
