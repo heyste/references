@@ -20,6 +20,10 @@
 - link:https://www.blender.org/[Blender]
 - link:https://krita.org/[Krita]
 
+== Icons
+
+- link:https://feathericons.com/[Feather - Simply beautiful open source icons]
+
 == Explore
 
 - link:https://sharpen.design/[Sharpen.design Generator]
