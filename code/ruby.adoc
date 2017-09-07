@@ -36,6 +36,7 @@
 - link:https://github.com/jwt/ruby-jwt[jwt]
 - link:https://github.com/stympy/faker[faker]
 - link:https://github.com/geminabox/geminabox[Gem in a Box]
+- link:https://github.com/lostisland/faraday[faraday]
 
 == Learn
 
