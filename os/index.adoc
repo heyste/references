@@ -10,7 +10,7 @@
 === Guides
 
 - link:os-linux-bash.adoc[Bash]
-- link:https://linux.die.net/man/[Linux man pages]
+- link:https://linux.die.net/man/[Linux man pages] link:http://code.tools/man/[Search]
 
 === Ubuntu Server
 
