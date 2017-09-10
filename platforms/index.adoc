@@ -13,6 +13,6 @@
 == Explore
 
 - link:electron.adoc[Electron]
-- link:http://nerves-project.org/[Nerves]
+- link:http://nerves-project.org/[Nerves] link:https://hexdocs.pm/nerves/getting-started.html[Getting Started]
 - link:https://kubernetes.io/[Kubernetes | Production-Grade Container Orchestration]
 - link:https://auth0.com[Auth0]
