@@ -19,6 +19,7 @@
 - link:https://www.postgresql.org/docs/9.6/static/tutorial.html[PostgreSQL: Documentation: 9.6: Tutorial]
 - link:http://www.postgresqltutorial.com/[PostgreSQL Tutorial]
 - link:http://postgresguide.com/[Postgres Guide]
+- link:https://www.youtube.com/channel/UCer4R0y7DrLsOXo-bI71O6A/playlists[PGCon Playlists]
 
 == Explore
 
