@@ -31,3 +31,4 @@
 - link:https://vuejs.org/[Vue.js]
 - link:http://maxwellito.github.io/vivus/[vivus.js - Svg Animation]
 - link:https://p5js.org/[p5.js]
+- link:http://phantomjs.org/[PhantomJS]
