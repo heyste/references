@@ -25,6 +25,10 @@
 - link:https://www.rfc-editor.org/info/rfc1918[RFC1918 - Address Allocation for Private Internets]
 - link:https://www.rfc-editor.org/info/rfc3022[RFC 3022 - Traditional IP Network Address Translator (Traditional NAT)]
 
+=== IPv6
+
+- link:https://www.rfc-editor.org/info/rfc8200[RFC 8200 - Internet Protocol, Version 6 (IPv6) Specification]
+
 == Layer 2: Data Link
 
 === MAC Addressing
