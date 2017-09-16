@@ -1,8 +1,7 @@
 = Ruby
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Code]
 
 == News
@@ -14,29 +13,10 @@
 - link:http://ruby-doc.org/core[Core API]
 - link:http://ruby-doc.org/stdlib/[Standard Library API]
 
-== Install
+== Ruby Environment
 
 - link:https://github.com/rbenv/rbenv[rbenv] link:https://github.com/rbenv/ruby-build/releases[releases]
-
-== Gems
-
-- link:https://rubygems.org/[RubyGems]
-- link:https://pryrepl.org/[Pry]
-- link:https://ruby.github.io/rake/[Rake]
-- link:https://github.com/troessner/reek[Reek]
-- link:http://batsov.com/rubocop/[RuboCop]
-- link:http://rspec.info/[RSpec]
-- link:https://kramdown.gettalong.org/[kramdown]
-- link:https://middlemanapp.com/[Middleman]
-- link:https://github.com/sinatra/sinatra[Sinatra]
-- link:https://github.com/slim-template/slim[Slim]
-- link:http://hanamirb.org/[Hanami]
-- link:https://github.com/mikel/mail[mail]
-- link:https://github.com/faye/faye-websocket-ruby[faye-websocket]
-- link:https://github.com/jwt/ruby-jwt[jwt]
-- link:https://github.com/stympy/faker[faker]
-- link:https://github.com/geminabox/geminabox[Gem in a Box]
-- link:https://github.com/lostisland/faraday[faraday]
+- link:ruby-gems.adoc[Ruby Gems]
 
 == Learn
 
@@ -46,10 +26,6 @@
 - link:https://idiosyncratic-ruby.com/[Idiosyncratic Ruby: Documenting All Ruby Specialities]
 - link:http://awesome-ruby.com/[Awesome Ruby]
 - link:http://rubykoans.com/[Ruby Koans]
-
-== Ruby Environment
-
-- link:https://github.com/rbenv/rbenv[rbenv]
 
 == Explore
 
