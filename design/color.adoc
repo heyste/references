@@ -1,8 +1,7 @@
 = Color
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Design]
 
 == Color 101
