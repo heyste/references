@@ -1,8 +1,7 @@
 = CSS
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Web]
 
 == World Wide Web Consortium (W3C)
