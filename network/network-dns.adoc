@@ -1,8 +1,7 @@
 = DNS
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Network]
 
 == Core
