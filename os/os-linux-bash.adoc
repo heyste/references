@@ -1,8 +1,7 @@
 = Linux : Bash
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Operating Systems]
 
 == Learn
