@@ -1,8 +1,7 @@
 = Crystal
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Code]
 
 == Language
