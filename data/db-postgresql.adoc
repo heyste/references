@@ -1,8 +1,7 @@
 = PostgreSQL
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Data]
 
 == References
