@@ -1,8 +1,7 @@
 = Fonts
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Design]
 
 == Font Sources
