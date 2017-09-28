@@ -1,8 +1,7 @@
 = Atom
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Tools]
 
 == News
