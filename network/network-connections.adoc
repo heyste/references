@@ -1,8 +1,7 @@
 = Network Connections
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Network]
 
 == Core
