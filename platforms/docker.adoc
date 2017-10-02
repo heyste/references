@@ -1,8 +1,7 @@
 = Docker
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Platforms]
 
 == References
