@@ -1,8 +1,7 @@
 = OSI Model
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Network]
 
 == Standards
