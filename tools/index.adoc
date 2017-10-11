@@ -29,6 +29,7 @@
 - link:https://restic.github.io/[restic - Backups done right!]
 - link:https://grafana.com/[Grafana - The open platform for analytics and monitoring]
 - link:https://www.draw.io/[draw.io]
+- link:http://editorconfig.org/[EditorConfig]
 
 == Sysadmin
 
