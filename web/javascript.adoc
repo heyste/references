@@ -1,8 +1,7 @@
 = Javascript
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Web]
 
 == News
