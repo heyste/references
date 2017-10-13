@@ -24,3 +24,8 @@
 - link:https://github.com/stympy/faker[faker]
 - link:https://github.com/geminabox/geminabox[Gem in a Box]
 - link:https://github.com/lostisland/faraday[faraday]
+
+== Terminal
+
+- link:https://github.com/piotrmurach/tty-progressbar[TTY::ProgressBar]
+- link:https://github.com/piotrmurach/pastel[Pastel]
