@@ -14,5 +14,5 @@
 
 - link:electron.adoc[Electron]
 - link:http://nerves-project.org/[Nerves] link:https://hexdocs.pm/nerves/getting-started.html[Getting Started]
-- link:https://kubernetes.io/[Kubernetes | Production-Grade Container Orchestration]
+- link:kubernetes.adoc[Kubernetes]
 - link:https://auth0.com[Auth0]

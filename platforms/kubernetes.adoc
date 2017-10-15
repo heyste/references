@@ -1,0 +1,9 @@
+= Kubernetes
+
+== link:../index.adoc[Index]
+
+- link:index.adoc[Platforms]
+
+== References
+
+- link:https://kubernetes.io/[Kubernetes | Production-Grade Container Orchestration]
