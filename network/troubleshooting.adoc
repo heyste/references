@@ -1,8 +1,7 @@
 = Troubleshooting Networks
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Network]
 
 == Applications
