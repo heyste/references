@@ -11,3 +11,4 @@
 == Explore
 
 - link:https://play.crystal-lang.org/#/cr[Compile & run code in Crystal]
+- link:http://kemalcr.com/[Kemal]
