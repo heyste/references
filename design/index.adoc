@@ -17,7 +17,7 @@
 == Applications
 
 - link:https://inkscape.org/[Inkscape]
-- link:https://www.blender.org/[Blender]
+- link:design-blender.adoc[Blender]
 - link:https://krita.org/[Krita]
 
 == Icons
