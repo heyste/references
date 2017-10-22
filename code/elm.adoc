@@ -10,6 +10,7 @@
 
 == Learn
 
+- link:https://guide.elm-lang.org/[An Introduction to Elm]
 - link:https://www.elm-tutorial.org/en/[Introduction - Elm Tutorial]
 
 == Explore
