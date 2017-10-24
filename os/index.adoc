@@ -20,6 +20,10 @@
 
 - link:http://www.postfix.org/documentation.html[Postfix Documentation]
 
+=== Manual
+
+- link:http://cbonte.github.io/haproxy-dconv/1.7/configuration.html[HAProxy version 1.7.9 - Configuration Manual]
+
 == Windows
 
 - link:os-windows-install.adoc[Installation]
