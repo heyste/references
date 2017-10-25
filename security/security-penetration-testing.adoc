@@ -1,8 +1,7 @@
 = Penetration Testing
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Security]
 
 == Software
