@@ -7,3 +7,7 @@
 == References
 
 - link:https://kubernetes.io/[Kubernetes | Production-Grade Container Orchestration]
+
+== Learn
+
+- link:https://kubernetes.io/docs/tutorials/kubernetes-basics/[Tutorials]
