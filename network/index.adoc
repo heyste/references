@@ -18,3 +18,7 @@
 
 - link:http://openvswitch.org/[Open vSwitch]
 - link:https://www.rfc-editor.org/info/rfc7822[RFC 7822: Network Time Protocol Version 4 (NTPv4) Extension Fields]
+
+== Blogs
+
+- link:http://packetlife.net/[Packet Life]
