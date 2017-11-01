@@ -1,8 +1,7 @@
 = Security based RFCs
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Security]
 
 == Review
