@@ -21,6 +21,7 @@
 == Library
 
 - link:https://fullcalendar.io/[FullCalendar | JavaScript Event Calendar]
+** link:https://fullcalendar.io/docs/event_data/Event_Object/[Event Object]
 - link:https://d3js.org/[D3.js - Data-Driven Documents]
 - link:https://github.com/kripken/sql.js/[sql.js]
 - link:http://tscanlin.github.io/tocbot/[Tocbot]
