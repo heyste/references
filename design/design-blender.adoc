@@ -9,3 +9,4 @@
 - link:https://www.blender.org/[Blender]
 - link:https://docs.blender.org/manual/en/dev/compositing/[Compositing]
 - link:https://docs.blender.org/manual/en/dev/editors/vse/[Video Sequence Editor]
+- link:https://docs.blender.org/manual/en/dev/glossary[Glossary]
