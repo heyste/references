@@ -14,6 +14,7 @@
 - link:https://www.owasp.org/index.php/HTTP_Strict_Transport_Security[HSTS]
 - link:https://letsencrypt.org/[Let's Encrypt]
 - link:https://securityheaders.io/[Analyse your HTTP response headers]
+- link:https://www.ssllabs.com/ssltest/[SSL Server Test]
 
 == JSON Web Tokens
 
