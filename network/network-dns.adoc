@@ -18,3 +18,23 @@
 == New Zealand
 
 - link:https://www.dnc.org.nz/[Domain Name Commission and .nz]
+
+== Public DNS Servers
+
+[%header,cols=2*]
+|===
+| IP Address
+| DNS Name
+
+|8.8.8.8
+|google-public-dns-a.google.com
+
+|8.8.4.4
+|google-public-dns-b.google.com
+
+|209.244.0.3
+|resolver1.level3.net.
+
+|209.244.0.4
+|resolver2.level3.net.
+|===
