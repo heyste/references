@@ -18,6 +18,7 @@
 == Packages
 
 - link:https://hex.pm/[Hex | The package manager for the Erlang ecosystem]
+- link:https://hexdocs.pm/plug[Plug]
 
 == Web Framework
 
