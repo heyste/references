@@ -16,3 +16,4 @@
 - link:http://nerves-project.org/[Nerves] link:https://hexdocs.pm/nerves/getting-started.html[Getting Started]
 - link:kubernetes.adoc[Kubernetes]
 - link:https://auth0.com[Auth0]
+- link:https://mobyproject.org/[Moby project]
