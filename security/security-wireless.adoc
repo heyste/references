@@ -1,0 +1,9 @@
+= Wireless
+
+== link:../index.adoc[Index]
+
+- link:index.adoc[Security]
+
+== Vulnerabilities
+
+- link:https://www.krackattacks.com/[Key Reinstallation Attacks]
