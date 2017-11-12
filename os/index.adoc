@@ -25,6 +25,10 @@
 - link:http://cbonte.github.io/haproxy-dconv/1.7/configuration.html[HAProxy version 1.7.9 - Configuration Manual]
 - link:https://varnish-cache.org/docs/5.1/reference/[The Varnish Reference Manual]
 
+=== Distributions
+
+- link:http://zeroshell.org[Zeroshell]
+
 == Windows
 
 - link:os-windows-install.adoc[Installation]
