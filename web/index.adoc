@@ -34,3 +34,4 @@
 
 - link:http://httpwg.org/[IETF HTTP Working Group]
 - link:https://http2.github.io/[HTTP/2]
+- link:http://www.restapitutorial.com/[REST API Tutorial]
