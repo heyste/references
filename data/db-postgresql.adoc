@@ -8,6 +8,7 @@
 
 - link:https://www.postgresql.org/[PostgreSQL]
 - link:https://www.postgresql.org/docs/manuals/[PostgreSQL Manuals]
+- link:https://wiki.postgresql.org/[PostgreSQL wiki]
 
 == Test
 
