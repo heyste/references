@@ -37,4 +37,10 @@
 
 |209.244.0.4
 |resolver2.level3.net.
+
+|8.26.56.26
+|ns1.recursive.dnsbycomodo.com
+
+|8.20.247.20
+|ns2.recursive.dnsbycomodo.com
 |===
