@@ -3,6 +3,7 @@
 == link:../index.adoc[Index]
 
 - link:index.adoc[Operating Systems]
+- link:os-linux.adoc[Linux]
 
 == Learn
 

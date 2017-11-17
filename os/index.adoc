@@ -2,32 +2,10 @@
 
 == link:../index.adoc[Index]
 
-== Linux
-
-- link:https://www.linux.com[linux.com]
-- link:https://www.kernel.org/[The Linux Kernel Archives]
-
-=== Guides
+== link:os-linux.adoc[Linux]
 
 - link:os-linux-bash.adoc[Bash]
-- link:https://linux.die.net/man/[Linux man pages] link:http://code.tools/man/[Search]
 
-=== Ubuntu Server
-
-- link:https://help.ubuntu.com/lts/serverguide/[Ubuntu Server Guide]
-
-=== Email
-
-- link:http://www.postfix.org/documentation.html[Postfix Documentation]
-
-=== Manual
-
-- link:http://cbonte.github.io/haproxy-dconv/1.7/configuration.html[HAProxy version 1.7.9 - Configuration Manual]
-- link:https://varnish-cache.org/docs/5.1/reference/[The Varnish Reference Manual]
-
-=== Distributions
-
-- link:http://zeroshell.org[Zeroshell]
 
 == Windows
 
