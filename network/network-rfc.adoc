@@ -1,0 +1,9 @@
+= Network based RFCs
+
+== link:../index.adoc[Index]
+
+- link:index.adoc[Network]
+
+== IPv4
+
+- link:https://www.rfc-editor.org/info/rfc1918[RFC1918: Address Allocation for Private Internets]

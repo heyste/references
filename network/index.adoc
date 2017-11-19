@@ -13,6 +13,7 @@
 
 - link:http://networkdiagram101.com/[Network Diagram 101]
 - link:https://www.rfc-editor.org/search/rfc_search_detail.php?pubstatus&#91;&#93;=Best%20Current%20Practice[RFC Search - Best Current Practice]
+- link:network-rfc.adoc[Network based RFCs]
 
 == Explore
 
