@@ -32,3 +32,4 @@
 - link:http://maxwellito.github.io/vivus/[vivus.js - Svg Animation]
 - link:https://p5js.org/[p5.js]
 - link:http://phantomjs.org/[PhantomJS]
+- link:https://frappe.github.io/charts/[Frappé Charts]
