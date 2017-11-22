@@ -33,3 +33,4 @@
 - link:https://p5js.org/[p5.js]
 - link:http://phantomjs.org/[PhantomJS]
 - link:https://frappe.github.io/charts/[Frappé Charts]
+- link:https://frappe.github.io/gantt/[Frappé Gantt]
