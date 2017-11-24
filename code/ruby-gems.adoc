@@ -24,6 +24,7 @@
 - link:https://github.com/stympy/faker[faker]
 - link:https://github.com/geminabox/geminabox[Gem in a Box]
 - link:https://github.com/lostisland/faraday[faraday]
+- link:http://teamcapybara.github.io/capybara/[Capybara]
 
 == Terminal
 
