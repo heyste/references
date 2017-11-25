@@ -34,3 +34,4 @@
 
 - link:https://robots.thoughtbot.com/the-product-design-sprint[The Product Design Sprint]
 - link:https://proximityschool.com/design-process/[Design Process - Proximity School of Design]
+- link:https://thoughtbot.com/playbook[thoughtbot | Playbook]
