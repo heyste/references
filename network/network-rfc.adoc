@@ -7,3 +7,7 @@
 == IPv4
 
 - link:https://www.rfc-editor.org/info/rfc1918[RFC1918: Address Allocation for Private Internets]
+
+== IPv6
+
+- link:https://www.rfc-editor.org/info/rfc3750[RFC 3750: Unmanaged Networks IPv6 Transition Scenarios]
