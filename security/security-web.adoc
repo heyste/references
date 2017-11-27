@@ -1,8 +1,7 @@
 = Web Security
 
-== Index
+== link:../index.adoc[Index]
 
-- link:../index.adoc[Index]
 - link:index.adoc[Security]
 
 == Core Topics
