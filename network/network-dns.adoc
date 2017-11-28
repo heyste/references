@@ -13,6 +13,7 @@
 
 - link:https://www.rfc-editor.org/info/rfc2606[Reserved Top Level DNS Names]
 - link:https://www.rfc-editor.org/info/rfc6762[Multicast DNS]
+- link:https://www.rfc-editor.org/info/rfc7720[RFC 7720: DNS Root Name Service Protocol and Deployment Requirements]
 
 
 == New Zealand
