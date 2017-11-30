@@ -7,6 +7,7 @@
 == Software
 
 - link:https://www.veracrypt.fr/[VeraCrypt]
+- link:https://github.com/Tarsnap/spiped[spiped - secure pipe daemon]
 
 == Hashing
 
