@@ -17,3 +17,4 @@
 - link:https://atom.io/packages/atom-beautify[Beautify]
 - link:https://atom.io/packages/atom-runner[Runner]
 - link:https://atom.io/packages/atom-mermaid[Mermaid]
+- link:https://atom.io/packages/ruby-block[Ruby Block]
