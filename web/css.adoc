@@ -8,6 +8,7 @@
 
 - link:https://www.w3.org/TR/CSS/[CSS]
 - link:https://jigsaw.w3.org/css-validator/[CSS Validation Service]
+- link:https://www.w3.org/TR/css-grid-1/[CSS Grid Layout Module Level 1]
 
 == Preprocessors
 
