@@ -34,5 +34,6 @@
 == Protocols
 
 - link:http://httpwg.org/[IETF HTTP Working Group]
+- link:https://www.rfc-editor.org/info/rfc7231[RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content]
 - link:https://http2.github.io/[HTTP/2]
 - link:http://www.restapitutorial.com/[REST API Tutorial]
