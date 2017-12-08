@@ -8,6 +8,10 @@
 
 - link:https://www.rfc-editor.org/info/rfc1510[RFC 1510: The Kerberos Network Authentication Service (v5)]
 
+== Authentication
+
+- link:https://www.rfc-editor.org/info/rfc7519[RFC 7519: OAuth JSON Web Token (JWT)]
+
 == Review
 
 - link:https://www.rfc-editor.org/info/rfc7465[RFC7465: Prohibiting RC4 Cipher Suites]
