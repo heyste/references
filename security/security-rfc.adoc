@@ -12,6 +12,10 @@
 
 - link:https://www.rfc-editor.org/info/rfc7519[RFC 7519: OAuth JSON Web Token (JWT)]
 
+== JSON
+
+- link:https://www.rfc-editor.org/info/rfc7516[RFC 7516: JSON Web Encryption (JWE)]
+
 == Review
 
 - link:https://www.rfc-editor.org/info/rfc7465[RFC7465: Prohibiting RC4 Cipher Suites]
