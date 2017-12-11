@@ -13,6 +13,10 @@
 - link:https://guide.elm-lang.org/[An Introduction to Elm]
 - link:https://www.elm-tutorial.org/en/[Introduction - Elm Tutorial]
 
+== Guides
+
+- link:https://guide.elm-lang.org/interop/json.html[JSON]
+
 == Explore
 
 - link:http://elm-lang.org/try[Try Elm]
