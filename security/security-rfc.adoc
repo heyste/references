@@ -15,6 +15,7 @@
 == JSON
 
 - link:https://www.rfc-editor.org/info/rfc7516[RFC 7516: JSON Web Encryption (JWE)]
+- link:https://www.rfc-editor.org/info/rfc7516[RFC 7517: JSON Web Key (JWK)]
 
 == Review
 
