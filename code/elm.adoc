@@ -7,6 +7,7 @@
 == Language
 
 - link:http://elm-lang.org/[Elm - A delightful language for reliable webapps]
+- link:http://package.elm-lang.org/packages/elm-lang/core/latest/[Elm Core Libraries]
 
 == Learn
 
