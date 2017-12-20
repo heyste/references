@@ -14,3 +14,4 @@
 
 - link:https://developer.mozilla.org/en/docs/Web/HTML[HTML | MDN]
 - link:http://html5doctor.com/[HTML5 Doctor, helping you implement HTML5 today]
+- link:https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS[Cross-Origin Resource Sharing (CORS) - HTTP | MDN]
