@@ -37,4 +37,5 @@
 - link:https://www.rfc-editor.org/info/rfc7231[RFC 7231: Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content]
 - link:https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml[Hypertext Transfer Protocol (HTTP) Status Code Registry]
 - link:https://http2.github.io/[HTTP/2]
+- link:https://www.rfc-editor.org/info/rfc7540[RFC 7540: Hypertext Transfer Protocol Version 2 (HTTP/2)]
 - link:http://www.restapitutorial.com/[REST API Tutorial]
