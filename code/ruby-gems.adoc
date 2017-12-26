@@ -12,7 +12,6 @@
 - link:https://ruby.github.io/rake/[Rake]
 - link:http://rspec.info/[RSpec]
 - link:https://kramdown.gettalong.org/[kramdown]
-- link:https://github.com/mikel/mail[mail]
 - link:https://github.com/jwt/ruby-jwt[jwt]
 - link:https://github.com/stympy/faker[faker]
 - link:https://github.com/geminabox/geminabox[Gem in a Box]
@@ -36,3 +35,7 @@
 - link:http://hanamirb.org/[Hanami]
 - link:https://github.com/faye/faye-websocket-ruby[faye-websocket]
 - link:https://github.com/lostisland/faraday[faraday]
+
+== Email
+
+- link:https://github.com/mikel/mail[mail]
