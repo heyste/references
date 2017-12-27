@@ -17,6 +17,7 @@
 == Guides
 
 - link:https://guide.elm-lang.org/interop/json.html[JSON]
+- link:https://guide.elm-lang.org/types/union_types.html[Union Types]
 
 == Explore
 
