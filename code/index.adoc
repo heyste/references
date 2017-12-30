@@ -10,13 +10,13 @@
 
 == Current
 
+- link:elm.adoc[Elm]
 - link:ruby.adoc[Ruby]
 
 == Explore
 
 - link:elixir.adoc[Elixir]
 - link:crystal.adoc[Crystal]
-- link:elm.adoc[Elm]
 - link:https://www.erlang.org/[Erlang]
 
 == References
