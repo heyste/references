@@ -25,6 +25,7 @@
 - link:https://www.r-project.org/[R: The R Project for Statistical Computing]
 - link:https://sqlnotebook.com/[SQL Notebook]
 - link:https://prometheus.io/[Prometheus - Monitoring system & time series database]
+- link:https://www.metabase.com/[Metabase]
 
 == Data Formats
 
