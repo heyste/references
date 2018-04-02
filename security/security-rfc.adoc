@@ -8,16 +8,13 @@
 
 - link:https://www.rfc-editor.org/info/rfc1510[RFC 1510: The Kerberos Network Authentication Service (v5)]
 
-== Authentication
-
-- link:https://www.rfc-editor.org/info/rfc7519[RFC 7519: OAuth JSON Web Token (JWT)]
-
 == JSON
 
 - link:https://www.rfc-editor.org/info/rfc7516[RFC 7515: JSON Web Signature (JWS)]
 - link:https://www.rfc-editor.org/info/rfc7516[RFC 7516: JSON Web Encryption (JWE)]
-- link:https://www.rfc-editor.org/info/rfc7516[RFC 7517: JSON Web Key (JWK)]
+- link:https://www.rfc-editor.org/info/rfc7517[RFC 7517: JSON Web Key (JWK)]
 - link:https://www.rfc-editor.org/info/rfc7518[RFC 7518: JSON Web Algorithms (JWA)]
+- link:https://www.rfc-editor.org/info/rfc7519[RFC 7519: OAuth JSON Web Token (JWT)]
 
 == Review
 
