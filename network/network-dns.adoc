@@ -44,4 +44,10 @@
 
 |8.20.247.20
 |ns2.recursive.dnsbycomodo.com
+
+|1.1.1.1
+|1dot1dot1dot1.cloudflare-dns.com
+
+|1.0.0.1
+|1dot1dot1dot1.cloudflare-dns.com
 |===
