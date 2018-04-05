@@ -10,17 +10,17 @@
 - link:https://rubygems.org/[RubyGems]
 - link:https://pryrepl.org/[Pry]
 - link:https://ruby.github.io/rake/[Rake]
-- link:http://rspec.info/[RSpec]
 - link:https://kramdown.gettalong.org/[kramdown]
 - link:https://github.com/jwt/ruby-jwt[jwt]
 - link:https://github.com/stympy/faker[faker]
 - link:https://github.com/geminabox/geminabox[Gem in a Box]
-- link:http://teamcapybara.github.io/capybara/[Capybara]
 
 == Code Quality
 
 - link:https://github.com/troessner/reek[Reek]
 - link:http://batsov.com/rubocop/[RuboCop]
+- link:http://rspec.info/[RSpec]
+- link:http://teamcapybara.github.io/capybara/[Capybara]
 
 == Terminal
 
