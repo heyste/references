@@ -20,6 +20,7 @@
 - link:design-blender.adoc[Blender]
 - link:https://krita.org/[Krita]
 - link:https://storybook.js.org/[Storybook - UI dev environment]
+- link:https://www.scribus.net/[Scribus - Open Source Desktop Publishing]
 
 == Icons
 
