@@ -15,3 +15,8 @@
 == Learn
 
 - link:https://kubernetes.io/docs/tutorials/kubernetes-basics/[Tutorials]
+
+== Testing
+
+- link:http://callistaenterprise.se/blogg/teknik/2017/12/20/kubernetes-on-docker-in-docker/[Setting up a Kubernetes cluster using Docker in Docker]
+- link:https://github.com/kubernetes-sigs/kubeadm-dind-cluster[kubeadm-dind-cluster]
